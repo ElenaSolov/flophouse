@@ -1,6 +1,6 @@
 # flophouse 
 page with register form for adaptive site of non-profit organization homeless.ru (https://www.facebook.com/Homeless.ru). 
-Each step of the form depends on previous user choice.
+Each step of the form rendered according to the previous user choice.
 
 Used technologies: 
 - JS
